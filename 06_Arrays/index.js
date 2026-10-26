@@ -287,4 +287,30 @@
 // 6.D
 // 7.B
 
-// 16.
+// // 16.
+// // 1.
+// const cart = [
+//     ["Laptop", 45000, 1],
+//     ["Mouse", 800, 2],
+//     ["Keyboard", 1500, 1],
+//     ["Headphones", 2500, 1]
+// ];
+// for(let i=0; i<cart.length; i++){
+//     console.log("Product: ",product=cart[i][0]);
+//     console.log("Price: ",price=cart[i][1]);
+//     console.log("Quantity: ",quantity=cart[i][2]);
+//     console.log("Item Total: ",total=price*quantity);
+// }
+
+// 2.
+const attendance = [
+    ["Jenil", ["P", "P", "A", "P", "P"]],
+    ["Mahir", ["P", "A", "P", "P", "A"]],
+    ["Yashvi", ["P", "P", "P", "P", "P"]],
+    ["Arjun", ["A", "A", "P", "P", "A"]]
+];
+for(let i=0; i<attendance.length; i++){
+    let name=attendance[i]
+    let total=attendance[i][1]
+    
+}
