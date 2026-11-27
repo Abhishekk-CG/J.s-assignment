@@ -278,3 +278,38 @@
 // 65.
 // yes it changes the original Array(). 
 
+// // 66.
+// let num=["DDLJ","WWE","WWF","NTG"];
+// console.log(num.toString());
+
+// // 67.
+// let nums=[1, 2, 3, 4];
+// console.log(nums.toString());
+
+// // 68.
+// let sub=["HINDI","ENGLISH","MATHS","SANSKRIT"];
+// console.log(sub.toString());
+
+// 69.
+// the toString() takes out the elements out of the array but the join() combines the entire array into a single String. 
+
+// 70.
+// comma(,)
+
+// // 71.
+// let arr=[2,3,4,5,6];
+// console.log(arr.fill(10))
+
+// // 72.
+// let arr=[1, 2, 3, 4, 5];
+// console.log(arr.fill(0))
+
+// // 73.
+// let array=["Hi","Hello","Heyy","Hey"];
+// console.log(array.fill("Hello"))
+
+// 74.
+// yes it changes the original Array. 
+
+// 75.
+// yes fill can change a part of an array just by filling the start and end index. 
